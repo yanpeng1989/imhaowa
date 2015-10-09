@@ -1,0 +1,47 @@
+/* CSS Document */
+@charset "utf-8";
+
+.ico_share {
+	display: inline-block;
+	width: 120px;
+	height: 18px;
+	background: url("ico_share.png")/*tpa=http://www.imhaowa.com/images/ico_share.png*/ no-repeat;
+	margin-top: 4px;
+}
+.ico_weibo {
+	width: 68px;
+	height: 18px;
+	background-position: 0 0;
+}
+.ico_weixin {
+	width: 52px;
+	height: 18px;
+	background-position: -68px 0;
+}
+.ico_tel {
+	display: inline-block;
+	width: 27px;
+	height: 27px;
+	background: url("ico_tel.png")/*tpa=http://www.imhaowa.com/images/ico_tel.png*/ no-repeat; 
+	margin-top: 20px;
+	margin-right: 10px;
+	vertical-align: text-bottom;
+}
+.ico_ta {
+	display: inline-block;
+	width: 28px;
+	height: 17px;
+	background: url("ico_ta.jpg")/*tpa=http://www.imhaowa.com/images/ico_ta.jpg*/ no-repeat;
+	margin-right: 6px;
+}
+.ico_tel2 {
+	width: 15px;
+	height: 17px;
+	background-position: 0 0;
+}
+.ico_addr {
+	width: 13px;
+	height: 17px;
+	background-position: -15px 0;
+}
+
