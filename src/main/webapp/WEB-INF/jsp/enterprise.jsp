@@ -1,15 +1,17 @@
+<%@ page language="java" contentType="text/html; charset=utf-8" pageEncoding="utf-8"%>
+<%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+<%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions"%><html xmlns="http://www.w3.org/1999/xhtml">
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>企业服务-好蛙-年轻人最喜爱的求职、社交平台</title>
 <meta name="description" content="好蛙APP是一款面向年轻蓝领的求职和社交软件,同时也针对企业提供人力资源服务。" />
 <meta name="keywords" content="好蛙,好蛙APP,蓝领求职,蓝领社交,企业人力资源服务" />
-<link href="style.css" tppabs="http://www.imhaowa.com/css/style.css" rel="stylesheet" type="text/css">
-<link href="ico.css" tppabs="http://www.imhaowa.com/css/ico.css" rel="stylesheet" type="text/css">
+<link href="/imhaowa/css/style.css"  rel="stylesheet" type="text/css">
+<link href="/imhaowa/css/ico.css"  rel="stylesheet" type="text/css">
 
-<script type="text/javascript" src="jquery.js" tppabs="http://www.imhaowa.com/js/jquery.js"></script>
-<script type="text/javascript" src="jquery.SuperSlide.js" tppabs="http://www.imhaowa.com/js/jquery.SuperSlide.js"></script>
+<script type="text/javascript" src="/imhaowa/js/jquery-2.1.4.js" ></script>
+<script type="text/javascript" src="/imhaowa/js/jquery.SuperSlide.js" ></script>
 
 <script>
 window.onload=function()
@@ -48,18 +50,18 @@ window.onload=function()
             </div>
             <div class="clearfix"></div>
             <div class="logo">
-            	<div class="fleft"><a href="index.html" tppabs="http://www.imhaowa.com/index.html" target="_blank"><img src="logo.png" tppabs="http://www.imhaowa.com/images/logo.png" width="260" height="56" alt="好哇" /></a></div>
+            	<div class="fleft"><a href="index.html"  target="_blank"><img src="/imhaowa/images/logo.png" width="260" height="56" alt="好哇" /></a></div>
                 <div class="fright"><span class="ico_tel"></span>400-717-8815</div>
             </div>
             <div class="clearfix"></div>
             <div class="nav">
             	<ul>
-                	<li><a href="index.html" tppabs="http://www.imhaowa.com/index.html">首页</a></li>
-                    <li><a  href="work.html" tppabs="http://www.imhaowa.com/work.html">就业服务</a></li>
-                    <li><a  class="curr" href="enterprise.html" tppabs="http://www.imhaowa.com/enterprise.html">企业服务</a></li>
-                    <li><a href="talent.html" tppabs="http://www.imhaowa.com/talent.html">人才计划</a></li>
-                    <li><a href="about.html" tppabs="http://www.imhaowa.com/about.html">关于我们</a></li>
-                    <li><a href="app.html" tppabs="http://www.imhaowa.com/app.html">APP下载</a></li>
+                	<li><a href="index.html" >首页</a></li>
+                    <li><a  href="work.html" >就业服务</a></li>
+                    <li><a  class="curr" href="enterprise.html" >企业服务</a></li>
+                    <li><a href="talent.html" >人才计划</a></li>
+                    <li><a href="about.html" >关于我们</a></li>
+                    <li><a href="app.html" >APP下载</a></li>
                 </ul>
             </div>
         </div>
@@ -76,7 +78,7 @@ window.onload=function()
 						<h3>“你寻找的工作在这里，<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;你想过的生活在这里“</h3>
 						<p class="text">年轻人最喜爱的求职、学习、生活平台</p>
 					</div>
-					<img class="pic" src="1.jpg" tppabs="http://www.imhaowa.com/images/1.jpg" width="1280" height="600" alt="">
+					<img class="pic" src="/imhaowa/images/1.jpg"  width="1280" height="600" alt="">
 				</a>
 			</li>
 			<li>
@@ -88,24 +90,24 @@ window.onload=function()
 理想中的那个他，从此拥有开心的工作，快乐的生活
 远在家乡的父母不再为我担心。</p>
 					</div>
-					<img class="pic" src="2.jpg" tppabs="http://www.imhaowa.com/images/2.jpg" width="1280" height="600" alt="">
+					<img class="pic" src="/imhaowa/images/2.jpg" width="1280" height="600" alt="">
 				</a>
 			</li>
 			<li>
 				<a class="pic" href="#" target="_blank">
                 	<div class="index_focus_info">
 						<h3>一个北大学者的</h3>
-						<img src="img_banner.png" tppabs="http://www.imhaowa.com/images/img_banner.png" width="370" height="108" />
+						<img src="/imhaowa/images/img_banner.png"  width="370" height="108" />
 					</div>
-					<img class="pic" src="3.jpg" tppabs="http://www.imhaowa.com/images/3.jpg" width="1280" height="600" alt="">
+					<img class="pic" src="/imhaowa/images/3.jpg"  width="1280" height="600" alt="">
 				</a>
 			</li>
 		</ul>
         <!-- 扫二维码下载APP -->
         <div class="app_sao">
-        	<img src="app_sao.png" tppabs="http://www.imhaowa.com/images/app_sao.png" width="225" height="299" usemap="#ercode"/>
+        	<img src="/imhaowa/images/app_sao.png"  width="225" height="299" usemap="#ercode"/>
             <map name="ercode" id="ercode">
-              <area shape="rect" coords="25,202,203,256" href ="-cid=0.htm" tppabs="http://www.imhaowa.com/qrcode/?cid=0" alt="Sun" />
+              <area shape="rect" coords="25,202,203,256" href ="-cid=0.htm"  alt="Sun" />
             </map>
         </div>
 	</div>
@@ -278,21 +280,21 @@ $(document).ready(function(){
         <div class="chara">
         	<ul>
                 <li>
-                    <div class="fleft"><img src="ico_chara1.jpg" tppabs="http://www.imhaowa.com/images/ico_chara1.jpg" width="59" height="59" /></div>
+                    <div class="fleft"><img src="/imhaowa/images/ico_chara1.jpg" width="59" height="59" /></div>
                     <div class="fright">
                         <div class="name">工作快速适配</div>
                         <div class="msg">无论年纪、性别与学历都能快速上岗</div>
                     </div>
                 </li>
                 <li>
-                	<div class="fleft"><img src="ico_chara2.jpg" tppabs="http://www.imhaowa.com/images/ico_chara2.jpg" width="59" height="59" /></div>
+                	<div class="fleft"><img src="/imhaowa/images/ico_chara2.jpg" width="59" height="59" /></div>
                     <div class="fright">
                         <div class="name">收入快速增长</div>
                         <div class="msg">找到工作是起点收入提高是关键</div>
                     </div>
                 </li>
                 <li>
-                	<div class="fleft"><img src="ico_chara3.jpg" tppabs="http://www.imhaowa.com/images/ico_chara3.jpg" width="59" height="59" /></div>
+                	<div class="fleft"><img src="/imhaowa/images/ico_chara3.jpg" width="59" height="59" /></div>
                     <div class="fright">
                         <div class="name">畅想快乐人生	</div>
                         <div class="msg">工作之余，谈谈人生谈谈理想</div>
@@ -303,11 +305,11 @@ $(document).ready(function(){
         <!-- 友情链接 -->
         <div class="friend">
         	<ul>
-            	<li><a href="#"><img src="friend_taobao.jpg" tppabs="http://www.imhaowa.com/images/friend_taobao.jpg" width="150" height="54" alt="淘宝" /></a></li>
-                <li><a href="#"><img src="friend_sina.jpg" tppabs="http://www.imhaowa.com/images/friend_sina.jpg" width="150" height="54" alt="新浪" /></a></li>
-                <li><a href="#"><img src="friend_baidu.jpg" tppabs="http://www.imhaowa.com/images/friend_baidu.jpg" width="150" height="54" alt="百度" /></a></li>
-                <li><a href="#"><img src="friend_sohu.jpg" tppabs="http://www.imhaowa.com/images/friend_sohu.jpg" width="150" height="54" alt="搜狐" /></a></li>
-                <li><a href="#"><img src="friend_lefeng.jpg" tppabs="http://www.imhaowa.com/images/friend_lefeng.jpg" width="150" height="54" alt="乐蜂" /></a></li>
+            	<li><a href="#"><img src="/imhaowa/images/friend_taobao.jpg" width="150" height="54" alt="淘宝" /></a></li>
+                <li><a href="#"><img src="/imhaowa/images/friend_sina.jpg" width="150" height="54" alt="新浪" /></a></li>
+                <li><a href="#"><img src="/imhaowa/images/friend_baidu.jpg" width="150" height="54" alt="百度" /></a></li>
+                <li><a href="#"><img src="/imhaowa/images/friend_sohu.jpg" width="150" height="54" alt="搜狐" /></a></li>
+                <li><a href="#"><img src="/imhaowa/images/friend_lefeng.jpg" width="150" height="54" alt="乐蜂" /></a></li>
             </ul>
         </div>
     </div>
@@ -316,7 +318,7 @@ $(document).ready(function(){
 <div class="footer">
 	<div class="content">
     	<a href="#">关于我们</a>|<a href="#">网站导航</a>|<a href="#">会员服务</a>|<a href="#">广告服务</a>|<a href="#">媒体合作</a>|<a href="#">在线帮助</a>|<a href="#">隐私声明</a>|<a href="#">服务条款</a>|<a href="#">法律声明</a>|<a href="#">联系我们</a>|<a href="#">意见建议</a>
-        <p>版权所有&nbsp;&nbsp;Copyright©2012-2015&nbsp;&nbsp;&nbsp;北京爱玖凌信息科技有限公司&nbsp;&nbsp;&nbsp;<a href="javascript:if(confirm('http://www.miibeian.gov.cn/  \n\n���ļ��޷��� Teleport Ultra ����, ��Ϊ ����һ�����·���ⲿ������Ϊ������ʼ��ַ�ĵ�ַ��  \n\n�����ڷ������ϴ���?'))window.location='http://www.miibeian.gov.cn/'" tppabs="http://www.miibeian.gov.cn/" target="_blank">京ICP备15039668号</a>   </p>
+        <p>版权所有&nbsp;&nbsp;Copyright©2012-2015&nbsp;&nbsp;&nbsp;北京爱玖凌信息科技有限公司&nbsp;&nbsp;&nbsp;<a href=""  target="_blank">京ICP备15039668号</a>   </p>
     </div>
 </div>
 
