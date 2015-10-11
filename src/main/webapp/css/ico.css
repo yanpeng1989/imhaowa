@@ -5,7 +5,7 @@
 	display: inline-block;
 	width: 120px;
 	height: 18px;
-	background: url("ico_share.png")/*tpa=http://www.imhaowa.com/images/ico_share.png*/ no-repeat;
+	background: url("/imhaowa/images/ico_share.png")/*tpa=http://www.imhaowa.com/images/ico_share.png*/ no-repeat;
 	margin-top: 4px;
 }
 .ico_weibo {
@@ -22,7 +22,7 @@
 	display: inline-block;
 	width: 27px;
 	height: 27px;
-	background: url("ico_tel.png")/*tpa=http://www.imhaowa.com/images/ico_tel.png*/ no-repeat; 
+	background: url("/imhaowa/images/ico_tel.png")/*tpa=http://www.imhaowa.com/images/ico_tel.png*/ no-repeat; 
 	margin-top: 20px;
 	margin-right: 10px;
 	vertical-align: text-bottom;
@@ -31,7 +31,7 @@
 	display: inline-block;
 	width: 28px;
 	height: 17px;
-	background: url("ico_ta.jpg")/*tpa=http://www.imhaowa.com/images/ico_ta.jpg*/ no-repeat;
+	background: url("/imhaowa/images/ico_ta.jpg")/*tpa=http://www.imhaowa.com/images/ico_ta.jpg*/ no-repeat;
 	margin-right: 6px;
 }
 .ico_tel2 {

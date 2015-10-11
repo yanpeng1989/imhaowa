@@ -98,7 +98,7 @@ li {
 	white-space: nowrap;
 	overflow: hidden;
 	z-index: 2;
-	background: url("ico_sliding.png")/*tpa=http://www.imhaowa.com/images/ico_sliding.png*/ no-repeat;
+	background: url("/imhaowa/images/ico_sliding.png")/*tpa=http://www.imhaowa.com/images/ico_sliding.png*/ no-repeat;
 }
 .index_focus_pre {
 	left: 20px;
@@ -176,7 +176,7 @@ li {
 	height: 158px;
 	margin-top: 10px;
 	margin-left: 30px;
-	background: url("bg_banner.png")/*tpa=http://www.imhaowa.com/images/bg_banner.png*/ no-repeat;
+	background: url("/imhaowa/images/bg_banner.png") no-repeat;
 	padding:10px;
 }
 
@@ -232,7 +232,7 @@ li {
 	color: #fff;
 	line-height: 30px;
 	text-align: center;
-	background: url("bg_nav.png")/*tpa=http://www.imhaowa.com/images/bg_nav.png*/ no-repeat;
+	background: url("/imhaowa/images/bg_nav.png")/*tpa=http://www.imhaowa.com/images/bg_nav.png*/ no-repeat;
 	margin: 0 auto;
 	transition: all .2s linear;
 	-moz-transition: all .2s linear;
@@ -331,7 +331,7 @@ li {
 	position: absolute;
 	top: 187px;
 	left: 0;
-	background: url("bg_case.png")/*tpa=http://www.imhaowa.com/images/bg_case.png*/ no-repeat;
+	background: url("/imhaowa/images/bg_case.png")/*tpa=http://www.imhaowa.com/images/bg_case.png*/ no-repeat;
 	z-index: 3;
 }
 .main_box .case .text .name {
@@ -529,7 +529,7 @@ li {
 	width: 954px;
 	height: 200px;
 	margin-top: 10px;
-	background: url("img_work1.jpg")/*tpa=http://www.imhaowa.com/images/img_work1.jpg*/ #fff no-repeat;
+	background: url("/imhaowa/images/img_work1.jpg")/*tpa=http://www.imhaowa.com/images/img_work1.jpg*/ #fff no-repeat;
 }
 .main_box .towork .work1 .step {
 	height: 84px;
@@ -558,7 +558,7 @@ li {
 	width: 954px;
 	height: 220px;
 	margin-top: 10px;
-	background: url("img_work2.jpg")/*tpa=http://www.imhaowa.com/images/img_work2.jpg*/ #fff no-repeat;
+	background: url("/imhaowa/images/img_work2.jpg")/*tpa=http://www.imhaowa.com/images/img_work2.jpg*/ #fff no-repeat;
 }
 .main_box .towork .work2 .step {
 	height: 80px;
