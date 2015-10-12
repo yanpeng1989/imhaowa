@@ -40,7 +40,7 @@
 							<li><a href="enterprise.html">关于我们</a></li>
 							<li><a href="work.html">产品展示</a></li>
 							<li><a href="talent.html">案例展示</a></li>
-							<li><a href="about.html">新闻中心</a></li>
+							<li><a href="about.html">防腐木知识</a></li>
 							<li><a class="curr" href="app.html">联系我们</a></li>
 						</ul>
 					</div>
