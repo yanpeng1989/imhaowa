@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>防腐木- 我们最专业</title>
 <meta name="description" content="本网站提供专业的防腐木信息！" />
-<meta name="keywords" content="防腐木,建材,木材,专业防腐木" />
+<meta name="keywords" content="防腐木,博乐市防腐木,建材,木材,专业防腐木" />
 <link href="/imhaowa/css/style.css" rel="stylesheet" type="text/css">
 <link href="/imhaowa/css/ico.css" rel="stylesheet" type="text/css">
 
@@ -177,7 +177,6 @@
 						<!-- 人才培养 -->
 						<div class="tab_c style1">
 							<p><img src="/imhaowa/images/kinds.png"  alt="凉亭" /></p>
-							
 						</div>
 					</div>
 				</div>

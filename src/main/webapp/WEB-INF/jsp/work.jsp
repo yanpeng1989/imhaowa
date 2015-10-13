@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>防腐木- 我们最专业</title>
 <meta name="description" content="本网站提供专业的防腐木信息！" />
-<meta name="keywords" content="防腐木,建材,木材,专业防腐木" />
+<meta name="keywords" content="防腐木,博乐市防腐木,建材,木材,专业防腐木" />
 <link href="/imhaowa/css/style.css" rel="stylesheet" type="text/css">
 <link href="/imhaowa/css/ico.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="/imhaowa/js/jquery-2.1.4.js"></script>
@@ -138,25 +138,28 @@
 		<!-- 主要内容 -->
 		<div class="main_box">
 			<div class="content">
-				<!-- 就业服务内容 -->
+				<!-- 内容 -->
 				<div class="towork">
-					<h3>大企业都在这儿 你还需要去哪儿</h3>
-					<p>我们i90的企业客户覆盖国际知名跨国企业、三资企业、国营企业、民营企业，横跨制造、电子、通讯、汽车、地产、建筑、物流、商贸、 服装、餐饮、快速消费品等诸多领域，我们已经为超过10万人的务工者提找到好工作。</p>
-					<p>我们i90目前在河南省设立4家县级线下服务就业中心，覆盖上百个乡镇近500万人口，在江苏苏州设立了会员之家，覆盖超过50万务工人
-						员。另外，还在北京设立了产品研发中心，开发和运营i90旗下移动客户端”好蛙“，利用移动互联网随时随地、便捷地为广大的务工者提供就 业服务。</p>
-					<h3>找工作只需四步</h3>
+					<h3>本中心集研发、生产、销售专业团队，您的不二选择。</h3>
+					<p>到现在在木业领域有着多年的经验，本中心主要提供生产使用防腐木、异形防腐木等木材。</p>
+					<p>我们还有防腐木专用木油、色精、桑拿板、碳化木桑拿板、碳化拉丝板等。</p>
+					<p>设计安装防腐木木屋、防腐木凉亭、防腐木花架、防腐木别墅等防腐木园林景观，承接各类防腐木园林景观工程。</p>
+					<p>防腐木生产经验丰富，技术先进，产品质量。多年来我们自始至终坚持诚信为本、质量上乘的经营策略。</p>
+					<p>我们本着高效、专业、创造财富、提高资源利用率为宗旨，聚集了一批优秀技术人员，更低的工程造价。</p>
+					<p>始终坚持“ 精心施工，精细管理，精良品质”的方针服务于每一位客户。我们只做良心产品，京祥木业期待着您的光临。</p>
+					<h3>大型工程设施</h3>
 					<div class="work1">
-						<div class="step step1">下载”好蛙“APP</div>
-						<div class="step step2">好工作一键报名</div>
-						<div class="step step3">等待我们客服小妹的通知</div>
-						<div class="step step4">我们客服小妹喊你上班</div>
+						<div class="step step1"></div>
+						<div class="step step2"></div>
+						<div class="step step3"></div>
+						<div class="step step4"></div>
 					</div>
-					<h3>就业有保障客服帮你忙</h3>
+					<h3>个性化防腐木设计</h3>
 					<div class="work2">
-						<div class="step step1">致电客服热线400-717-8815</div>
-						<div class="step step2">我们客服小妹热情聆听</div>
-						<div class="step step3">我们会员之家火速处理</div>
-						<div class="step step4">我们客服小妹喊你给个好评</div>
+						<div class="step step1"></div>
+						<div class="step step2"></div>
+						<div class="step step3"></div>
+						<div class="step step4"></div>
 					</div>
 				</div>
 				<!-- 特点 -->

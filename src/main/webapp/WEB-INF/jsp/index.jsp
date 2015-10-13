@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>防腐木- 我们最专业</title>
 <meta name="description" content="本网站提供专业的防腐木信息！" />
-<meta name="keywords" content="防腐木,建材,木材,专业防腐木" />
+<meta name="keywords" content="防腐木,博乐市防腐木,建材,木材,专业防腐木" />
 <link href="/imhaowa/css/style.css" rel="stylesheet" type="text/css">
 <link href="/imhaowa/css/ico.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="/imhaowa/js/jquery-2.1.4.js"></script>
