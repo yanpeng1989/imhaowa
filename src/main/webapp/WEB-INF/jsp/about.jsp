@@ -49,7 +49,7 @@
 							<a href="index.jshtmltarget="_blank"><img src="/imhaowa/images/logo.png" width="260" height="56" alt="好哇" /></a>
 						</div>
 						<div class="fright">
-							<span class="ico_tel"></span>400-717-8815
+							<span class="ico_tel"></span>15999054366
 						</div>
 					</div>
 					<div class="clearfix"></div>
