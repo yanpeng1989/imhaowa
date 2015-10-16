@@ -64,24 +64,24 @@
 					<ul>
 						<li>
 							<div class="down1">
-								<h2>好蛙APP 安卓版</h2>
+								<h2>联系人</h2>
 								<div class="btn_app">
-									<a href="-cid=0.htm"><img src="/imhaowa/images/btn_android.jpg" width="177" height="53" alt="" /></a>
+									
 								</div>
-								<div class="msg">适用：Android 2.2或者更高版本</div>
+								<div class="msg"></div>
 							</div>
 						</li>
 						<li>
 							<div class="down1">
-								<h2>好蛙APP iPhone版</h2>
-								<div class="btn_app">敬请期待</div>
-								<div class="msg">适用：IOS6.0或更高版本</div>
+								<h2>陈先生</h2>
+								<div class="btn_app">15999054366</div>
+								<div class="msg">期待为您服务</div>
 							</div>
 						</li>
 						<li>
 							<div class="down2">
 								<img src="/imhaowa/images/ercode.jpg" width="100" height="100" alt="" />
-								<div class="msg">扫描二维码下载</div>
+								<div class="msg">微信扫描咨询</div>
 							</div>
 						</li>
 					</ul>
@@ -93,16 +93,16 @@
 						<img src="/imhaowa/images/app_1.jpg" width="193" height="327" alt="" />
 					</div>
 					<div class="fright app_text">
-						<h2>需找老乡不寂寞</h2>
-						<p>找到附近的老乡群，畅所欲言，即使背井离乡也不孤单</p>
+						<h2>花旗松板材，美国花旗松</h2>
+						<p>其较高的比重可提供良好的握钉力和固定力</p>
 					</div>
 				</div>
 			</div>
 			<div class="app_con3">
 				<div class="con_instro">
 					<div class="fleft app_text">
-						<h2>同行交流更直接</h2>
-						<p>扩大你的交友圈，同步行业信息，工作生活两不误</p>
+						<h2>红雪松价格，加拿大红雪松防腐木</h2>
+						<p>非常适用于需要耐久性和规格稳定性的外部运用</p>
 					</div>
 					<div class="fright">
 						<img src="/imhaowa/images/app_2.jpg" width="431" height="292" alt="" />
@@ -115,16 +115,16 @@
 						<img src="/imhaowa/images/app_3.jpg" width="336" height="345" alt="" />
 					</div>
 					<div class="fright app_text">
-						<h2>兴趣让你我在一起</h2>
-						<p>加入兴趣群，寻找志同道合的伙伴，随时随地聊起来</p>
+						<h2>樟子松，樟子松板材，俄罗斯樟子松</h2>
+						<p>木材寿命延达40至50年</p>
 					</div>
 				</div>
 			</div>
 			<div class="app_con5">
 				<div class="con_instro">
 					<div class="fleft app_text">
-						<h2>附近地点随时聊</h2>
-						<p>通过身边功能你可以随时找到感兴趣的人和群</p>
+						<h2>赤松，北欧赤松，北欧赤松防腐木</h2>
+						<p>木质紧密、含脂量低、木材纤维纹理、木节小、比大部分软木树种强度高</p>
 					</div>
 					<div class="fright">
 						<img src="/imhaowa/images/app_4.jpg" width="242" height="332" alt="" />
