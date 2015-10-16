@@ -230,10 +230,10 @@
 		<!-- 底部 -->
 		<div class="footer">
 			<div class="content">
-				<a href="#">关于我们</a>|<a href="#">网站导航</a>|<a href="#">会员服务</a>|<a href="#">广告服务</a>|<a href="#">媒体合作</a>|<a href="#">在线帮助</a>|<a
+				<a href="#">关于我们</a>|<a href="#">网站导航</a>|<a
 					href="#">隐私声明</a>|<a href="#">服务条款</a>|<a href="#">法律声明</a>|<a href="#">联系我们</a>|<a href="#">意见建议</a>
 				<p>
-					版权所有&nbsp;&nbsp;Copyright©2012-2015&nbsp;&nbsp;&nbsp;北京爱玖凌信息科技有限公司&nbsp;&nbsp;&nbsp;<a href="" target="_blank">京ICP备15039668号</a>
+					版权所有&nbsp;&nbsp;Copyright©2012-2015&nbsp;&nbsp;&nbsp;淋翔防腐木&nbsp;&nbsp;&nbsp;<a href="" target="_blank">ICP备15039668号</a>
 				</p>
 			</div>
 		</div>
